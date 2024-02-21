@@ -1,4 +1,4 @@
-package TestingBuilderPattern;
+package testingBuilderPattern;
 
 public class Main {
 

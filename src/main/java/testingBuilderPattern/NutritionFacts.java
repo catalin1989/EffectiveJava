@@ -1,4 +1,4 @@
-package TestingBuilderPattern;
+package testingBuilderPattern;
 //The Builder pattern is used when you have a class with a lot of variables and you don't
 //know which variables you will need in the constructor. Maybe you want to, maybe you want 5.
 //You can use the Telescope pattern, but this is ok when you have a maximum of 4-5 variables.
